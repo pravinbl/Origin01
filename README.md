@@ -1,2 +1,2 @@
-# Origin01
+# AMD_Test
 Test
